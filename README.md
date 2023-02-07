@@ -2,7 +2,6 @@
 
 #### I am FullStack Developer
 
-![I am FullStack Developer](https://github.com/RAHMATILLOo3o5/RAHMATILLOo3o5/blob/main/01.png)
 
 As a web FullStack developer, I have participated in and prepared quite a few projects!
 In these projects, I used and continue to use PHP, JavaScript, jQuery and Yii2 technologies, as well as a MySQL database!
